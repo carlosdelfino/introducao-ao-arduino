@@ -2,7 +2,7 @@
 description: 'Página introdutória, contra capa.'
 ---
 
-# Introdução ao Arduino
+# Introdução aos conceitos Básicos de Eletrônica e Arduino
 
 Curso Básico de Arduino
 

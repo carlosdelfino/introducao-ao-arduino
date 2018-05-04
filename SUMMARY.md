@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introdução ao Arduino](README.md)
+* [Introdução aos conceitos Básicos de Eletrônica e Arduino](README.md)
 * [Conceitos Básicos](conceitos-basicos/README.md)
   * O Projeto Arduino
   * Instalação do Software
