@@ -1,15 +1,16 @@
-# Introdução ao Arduino {#introdu-o-ao-arduino}
+---
+description: 'Página introdutória, contra capa.'
+---
 
-Curso BásicodeArduino
+# Introdução ao Arduino
 
-Basicão da Eletronica eConstruindo protótipos com Arduino
+Curso Básico de Arduino
+
+Este livro engloba o conteúdo usado no curso Basicão da Eletronica e Hello World Arduindo.
 
 Autor:Carlos Delfino
 
 10 de jul de 2016
 
 Versão: 1.0.1
-
-Capítulo
-
 
